@@ -56,14 +56,6 @@ for i in range(1,26):
   
 #question4
 #(a)
-list_8=[]
-for i in range(0:n+1):
-    list_8=[a[i]-a[n-i]]
-
-a=[i for i in range(1,21)]
-listc=[a[i]-a[len(a)-i]for i in range(len(a))]
-listd=[]
-
 
 
 a = list_1
